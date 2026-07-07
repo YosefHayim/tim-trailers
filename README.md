@@ -1,5 +1,9 @@
 # Tim's Movie Trailers - Full-Stack Vanilla JavaScript Application
 
+<p align="center">
+  <img src="images/readmeHero.png" alt="Tim's Movie Trailers — vanilla JavaScript movie app and AI mascot illustration system" width="900" />
+</p>
+
 ## Executive Overview
 
 **Tim's Movie Trailers** is a sophisticated, production-ready movie database application built entirely with **vanilla JavaScript**, demonstrating advanced frontend engineering principles and AI-driven design automation. This project represents a significant technical milestone: **a complete transition from JavaScript fundamentals to building complex, multi-layered systems in just three months**.
